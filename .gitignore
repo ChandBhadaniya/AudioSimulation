@@ -1,0 +1,6 @@
+# Ignore folder
+build/
+.vscode/
+
+# Ignore generated audio file
+audio.csv

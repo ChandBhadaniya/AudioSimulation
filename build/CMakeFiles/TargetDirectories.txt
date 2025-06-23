@@ -1,3 +1,0 @@
-/home/brilworks-18/work/cppp3/build/CMakeFiles/AudioSystem.dir
-/home/brilworks-18/work/cppp3/build/CMakeFiles/edit_cache.dir
-/home/brilworks-18/work/cppp3/build/CMakeFiles/rebuild_cache.dir
